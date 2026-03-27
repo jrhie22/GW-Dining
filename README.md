@@ -79,7 +79,7 @@ Local server environment (for development)
 
 Clone the repository:
 <pre><code>
-bashgit clone https://github.com/your-username/gw-campus-dining-finder.git
+bashgit clone https://github.com/jrhie22/gw-campus-dining-finder.git
 cd gw-campus-dining-finder
 </code></pre>
 Set up a local server:
